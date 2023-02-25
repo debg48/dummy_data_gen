@@ -17,6 +17,10 @@ To install the scipt locally open up a terminal and paste the following commands
 
 ``` git clone https://github.com/debg48/dummy_data_gen.git ```
 
+Install the following packages :
+
+``` pip install pandas Faker sqlalchemy ```
+
 Change directory and locate the python file then run 
 
 ``` python datagen.py```
