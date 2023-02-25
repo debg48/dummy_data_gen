@@ -19,7 +19,7 @@ To install the scipt locally open up a terminal and paste the following commands
 
 Install the following packages :
 
-``` pip install pandas Faker sqlalchemy ```
+``` pip install pandas Faker sqlalchemy mysqlclient ```
 
 Change directory and locate the python file then run 
 
