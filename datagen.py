@@ -26,7 +26,7 @@ else:
         print("Invalid Number entered !")
     else :     
         engine_params=engine_params+db_client+"://"+db_user+":"+db_passwd+"@"+route+"/"+db_name
-        for _ in range(data_size):
+        for _ in range(int(data_size)):
             # READ DOCUMENTATION TO CUSTOMIZE FIELDS OF THE TABLE ACCORDINGLY
             # THIS IS WHERE THE CUSTOMIATION NEEDS TO BE DONE
             fake_data["first_name"].append( fake.first_name() )
