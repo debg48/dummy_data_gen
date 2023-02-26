@@ -4,6 +4,10 @@ This is a basic script for dummy data generation
 
 Please note this script is still under development and is just for testing purposes
 
+This script can be customized according to need . 
+
+[Faker Documentation](https://faker.readthedocs.io/en/master/)
+
 ### Installation guide 
 
 #### Requirements :
