@@ -7,7 +7,7 @@ Please note this script is still under development and is just for testing purpo
 This script can be customized according to need . 
 
 [Faker Documentation](https://faker.readthedocs.io/en/master/)
-
+[Pandas](https://pandas.pydata.org/)
 ### Installation guide 
 
 #### Requirements :
